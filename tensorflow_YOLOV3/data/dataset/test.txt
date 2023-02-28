@@ -1,0 +1,200 @@
+./OpenAI/DATASET/data/agri_0_7656.jpeg 77,85,484,357,1 
+./OpenAI/DATASET/data/agri_0_7658.jpeg 53,264,260,489,1 389,265,511,463,1 0,84,77,253,1 
+./OpenAI/DATASET/data/agri_0_7668.jpeg 160,122,202,161,0 124,54,175,96,0 118,116,151,148,0 333,90,373,128,0 345,47,394,73,0 399,75,420,100,0 128,224,163,259,0 187,252,223,286,0 207,299,300,342,0 287,276,319,304,0 343,283,375,332,0 340,427,379,468,0 314,360,360,402,0 102,461,156,493,0 30,305,127,379,0 380,148,498,217,0 
+./OpenAI/DATASET/data/agri_0_7669.jpeg 211,104,458,417,1 
+./OpenAI/DATASET/data/agri_0_7675.jpeg 223,199,306,275,1 34,17,130,122,1 
+./OpenAI/DATASET/data/agri_0_7681.jpeg 160,169,416,340,0 
+./OpenAI/DATASET/data/agri_0_7705.jpeg 0,151,461,447,1 357,40,511,144,1 
+./OpenAI/DATASET/data/agri_0_7707.jpeg 47,35,436,471,0 
+./OpenAI/DATASET/data/agri_0_7716.jpeg 87,43,486,399,0 
+./OpenAI/DATASET/data/agri_0_773.jpeg 32,65,417,511,0 
+./OpenAI/DATASET/data/agri_0_7734.jpeg 18,141,475,459,0 350,0,511,111,0 
+./OpenAI/DATASET/data/agri_0_7749.jpeg 89,128,400,381,1 93,9,175,90,1 
+./OpenAI/DATASET/data/agri_0_7756.jpeg 56,46,421,444,1 
+./OpenAI/DATASET/data/agri_0_7779.jpeg 311,118,353,156,0 358,111,389,145,0 336,53,384,84,0 140,89,181,115,0 12,136,127,292,0 5,371,67,485,0 137,366,192,472,0 195,280,302,344,0 400,290,476,388,0 348,220,382,262,0 353,458,408,507,0 
+./OpenAI/DATASET/data/agri_0_7788.jpeg 17,146,511,447,0 110,0,511,253,0 
+./OpenAI/DATASET/data/agri_0_7795.jpeg 93,101,421,387,0 
+./OpenAI/DATASET/data/agri_0_7796.jpeg 46,69,511,408,0 0,1,319,180,0 
+./OpenAI/DATASET/data/agri_0_780.jpeg 29,23,453,486,1 
+./OpenAI/DATASET/data/agri_0_7806.jpeg 81,57,464,504,1 
+./OpenAI/DATASET/data/agri_0_7813.jpeg 64,113,496,372,1 
+./OpenAI/DATASET/data/agri_0_7814.jpeg 79,139,415,369,1 
+./OpenAI/DATASET/data/agri_0_7824.jpeg 98,125,452,390,1 
+./OpenAI/DATASET/data/agri_0_7838.jpeg 238,80,292,131,0 179,119,208,141,0 56,80,116,142,0 181,11,220,34,0 371,21,405,54,0 365,135,413,241,0 196,248,235,275,0 382,284,408,321,0 228,349,260,383,0 226,396,267,451,0 59,367,93,418,0 464,0,511,88,0 
+./OpenAI/DATASET/data/agri_0_7839.jpeg 56,161,469,395,1 
+./OpenAI/DATASET/data/agri_0_784.jpeg 134,80,376,392,1 
+./OpenAI/DATASET/data/agri_0_7842.jpeg 4,219,258,356,1 64,11,319,164,1 361,182,472,287,1 392,2,511,121,1 
+./OpenAI/DATASET/data/agri_0_7844.jpeg 89,106,436,378,1 394,317,511,464,1 
+./OpenAI/DATASET/data/agri_0_7856.jpeg 96,128,451,385,1 
+./OpenAI/DATASET/data/agri_0_7865.jpeg 89,138,432,488,1 
+./OpenAI/DATASET/data/agri_0_7866.jpeg 43,24,504,475,0 
+./OpenAI/DATASET/data/agri_0_7868.jpeg 138,241,511,506,1 
+./OpenAI/DATASET/data/agri_0_7869.jpeg 92,0,511,301,1 
+./OpenAI/DATASET/data/agri_0_787.jpeg 49,2,474,484,0 
+./OpenAI/DATASET/data/agri_0_7877.jpeg 146,213,431,414,1 
+./OpenAI/DATASET/data/agri_0_7878.jpeg 16,29,493,484,0 
+./OpenAI/DATASET/data/agri_0_7888.jpeg 26,40,510,481,0 
+./OpenAI/DATASET/data/agri_0_789.jpeg 0,1,504,496,0 
+./OpenAI/DATASET/data/agri_0_7901.jpeg 99,167,441,404,1 
+./OpenAI/DATASET/data/agri_0_7925.jpeg 52,100,471,454,0 
+./OpenAI/DATASET/data/agri_0_7939.jpeg 12,192,402,499,1 
+./OpenAI/DATASET/data/agri_0_7942.jpeg 233,172,332,321,1 3,245,145,430,1 
+./OpenAI/DATASET/data/agri_0_7943.jpeg 31,3,462,511,0 
+./OpenAI/DATASET/data/agri_0_7958.jpeg 31,95,440,468,1 165,5,511,126,1 
+./OpenAI/DATASET/data/agri_0_7959.jpeg 16,23,506,478,0 
+./OpenAI/DATASET/data/agri_0_7963.jpeg 238,110,511,406,0 10,88,238,373,0 
+./OpenAI/DATASET/data/agri_0_7977.jpeg 186,119,459,410,1 
+./OpenAI/DATASET/data/agri_0_7985.jpeg 119,82,467,415,0 
+./OpenAI/DATASET/data/agri_0_7989.jpeg 283,23,499,308,0 
+./OpenAI/DATASET/data/agri_0_7997.jpeg 14,112,460,511,0 
+./OpenAI/DATASET/data/agri_0_8007.jpeg 41,41,508,509,0 
+./OpenAI/DATASET/data/agri_0_8008.jpeg 95,36,446,387,1 
+./OpenAI/DATASET/data/agri_0_8023.jpeg 119,70,415,395,1 
+./OpenAI/DATASET/data/agri_0_8029.jpeg 110,156,511,485,0 5,1,357,243,0 
+./OpenAI/DATASET/data/agri_0_8034.jpeg 16,115,487,421,0 175,2,486,154,0 
+./OpenAI/DATASET/data/agri_0_8044.jpeg 258,124,323,197,0 201,204,250,246,0 143,115,189,171,0 94,250,151,356,0 244,285,324,379,0 282,225,343,343,0 353,271,444,354,0 288,393,362,492,0 388,387,460,481,0 
+./OpenAI/DATASET/data/agri_0_8046.jpeg 92,160,396,349,1 
+./OpenAI/DATASET/data/agri_0_8058.jpeg 74,110,433,444,0 
+./OpenAI/DATASET/data/agri_0_8062.jpeg 118,121,421,384,1 
+./OpenAI/DATASET/data/agri_0_8072.jpeg 37,154,472,436,1 
+./OpenAI/DATASET/data/agri_0_8073.jpeg 70,117,415,367,1 
+./OpenAI/DATASET/data/agri_0_808.jpeg 50,130,409,448,1 
+./OpenAI/DATASET/data/agri_0_8085.jpeg 81,122,446,419,0 
+./OpenAI/DATASET/data/agri_0_8094.jpeg 56,35,459,452,0 
+./OpenAI/DATASET/data/agri_0_8095.jpeg 43,85,493,416,1 
+./OpenAI/DATASET/data/agri_0_81.jpeg 26,140,425,325,0 
+./OpenAI/DATASET/data/agri_0_8104.jpeg 18,112,499,442,0 
+./OpenAI/DATASET/data/agri_0_8105.jpeg 20,144,491,488,1 
+./OpenAI/DATASET/data/agri_0_8107.jpeg 50,124,425,414,1 
+./OpenAI/DATASET/data/agri_0_8108.jpeg 84,153,425,372,1 
+./OpenAI/DATASET/data/agri_0_8121.jpeg 52,92,504,511,0 
+./OpenAI/DATASET/data/agri_0_8126.jpeg 119,114,395,393,1 
+./OpenAI/DATASET/data/agri_0_8140.jpeg 90,144,395,373,1 
+./OpenAI/DATASET/data/agri_0_8141.jpeg 27,51,460,498,0 
+./OpenAI/DATASET/data/agri_0_8143.jpeg 73,68,488,492,1 
+./OpenAI/DATASET/data/agri_0_8146.jpeg 16,116,495,412,0 172,0,485,150,0 
+./OpenAI/DATASET/data/agri_0_815.jpeg 22,5,375,399,0 271,187,510,509,0 
+./OpenAI/DATASET/data/agri_0_8157.jpeg 30,84,440,510,0 
+./OpenAI/DATASET/data/agri_0_8161.jpeg 223,110,412,396,0 
+./OpenAI/DATASET/data/agri_0_8163.jpeg 16,60,419,511,1 
+./OpenAI/DATASET/data/agri_0_8165.jpeg 134,97,326,386,1 
+./OpenAI/DATASET/data/agri_0_8168.jpeg 182,172,319,316,1 37,330,228,496,1 
+./OpenAI/DATASET/data/agri_0_8183.jpeg 73,37,476,463,0 
+./OpenAI/DATASET/data/agri_0_8184.jpeg 108,12,476,436,0 252,5,511,243,0 
+./OpenAI/DATASET/data/agri_0_8195.jpeg 23,71,508,452,0 
+./OpenAI/DATASET/data/agri_0_82.jpeg 71,121,404,458,1 265,2,345,64,1 360,3,449,64,1 157,4,239,60,1 14,108,67,153,1 417,216,511,320,1 
+./OpenAI/DATASET/data/agri_0_8209.jpeg 52,80,505,378,0 
+./OpenAI/DATASET/data/agri_0_8225.jpeg 0,1,415,439,0 
+./OpenAI/DATASET/data/agri_0_823.jpeg 156,104,396,282,1 0,440,70,511,1 36,1,141,59,1 
+./OpenAI/DATASET/data/agri_0_8246.jpeg 1,32,511,465,0 
+./OpenAI/DATASET/data/agri_0_8252.jpeg 188,150,404,300,1 
+./OpenAI/DATASET/data/agri_0_8262.jpeg 1,56,444,437,1 
+./OpenAI/DATASET/data/agri_0_8265.jpeg 19,87,511,486,0 
+./OpenAI/DATASET/data/agri_0_8267.jpeg 298,99,450,343,1 71,194,181,356,1 
+./OpenAI/DATASET/data/agri_0_8269.jpeg 96,136,420,497,1 
+./OpenAI/DATASET/data/agri_0_8297.jpeg 131,59,370,380,1 
+./OpenAI/DATASET/data/agri_0_830.jpeg 1,0,511,507,0 
+./OpenAI/DATASET/data/agri_0_8305.jpeg 30,93,492,476,0 
+./OpenAI/DATASET/data/agri_0_8315.jpeg 5,41,511,496,0 
+./OpenAI/DATASET/data/agri_0_8322.jpeg 147,112,485,340,1 
+./OpenAI/DATASET/data/agri_0_8330.jpeg 70,163,427,400,1 9,37,145,159,1 
+./OpenAI/DATASET/data/agri_0_8338.jpeg 63,53,453,451,0 
+./OpenAI/DATASET/data/agri_0_8341.jpeg 79,14,454,493,0 
+./OpenAI/DATASET/data/agri_0_8357.jpeg 82,42,464,497,0 
+./OpenAI/DATASET/data/agri_0_8358.jpeg 145,85,392,328,0 
+./OpenAI/DATASET/data/agri_0_838.jpeg 28,25,476,440,0 20,94,161,211,0 
+./OpenAI/DATASET/data/agri_0_8388.jpeg 71,70,433,358,0 
+./OpenAI/DATASET/data/agri_0_839.jpeg 71,89,442,400,0 
+./OpenAI/DATASET/data/agri_0_8393.jpeg 111,122,418,403,1 
+./OpenAI/DATASET/data/agri_0_84.jpeg 1,50,511,507,1 
+./OpenAI/DATASET/data/agri_0_840.jpeg 0,2,482,483,0 
+./OpenAI/DATASET/data/agri_0_8405.jpeg 55,46,511,504,0 
+./OpenAI/DATASET/data/agri_0_8409.jpeg 69,128,422,365,1 
+./OpenAI/DATASET/data/agri_0_8413.jpeg 136,161,338,313,1 
+./OpenAI/DATASET/data/agri_0_8417.jpeg 116,121,346,385,1 
+./OpenAI/DATASET/data/agri_0_8421.jpeg 85,88,492,484,0 
+./OpenAI/DATASET/data/agri_0_8422.jpeg 49,145,511,398,0 
+./OpenAI/DATASET/data/agri_0_8440.jpeg 18,18,506,481,0 
+./OpenAI/DATASET/data/agri_0_8445.jpeg 174,174,396,394,1 
+./OpenAI/DATASET/data/agri_0_8463.jpeg 30,131,467,407,0 
+./OpenAI/DATASET/data/agri_0_8478.jpeg 40,113,411,468,0 
+./OpenAI/DATASET/data/agri_0_8482.jpeg 26,79,428,464,0 
+./OpenAI/DATASET/data/agri_0_8485.jpeg 37,5,511,423,0 
+./OpenAI/DATASET/data/agri_0_8489.jpeg 41,1,504,511,0 
+./OpenAI/DATASET/data/agri_0_8490.jpeg 88,138,387,274,0 
+./OpenAI/DATASET/data/agri_0_8493.jpeg 44,49,428,446,0 
+./OpenAI/DATASET/data/agri_0_8496.jpeg 175,171,322,301,1 12,329,184,497,1 
+./OpenAI/DATASET/data/agri_0_8516.jpeg 26,174,380,398,1 
+./OpenAI/DATASET/data/agri_0_8518.jpeg 147,111,436,346,1 
+./OpenAI/DATASET/data/agri_0_8546.jpeg 23,133,353,508,1 
+./OpenAI/DATASET/data/agri_0_8556.jpeg 1,111,440,464,0 
+./OpenAI/DATASET/data/agri_0_8565.jpeg 1,63,511,393,0 205,366,477,511,0 
+./OpenAI/DATASET/data/agri_0_8572.jpeg 4,6,456,485,0 
+./OpenAI/DATASET/data/agri_0_8574.jpeg 99,85,484,476,0 
+./OpenAI/DATASET/data/agri_0_8583.jpeg 81,147,425,400,0 
+./OpenAI/DATASET/data/agri_0_8585.jpeg 55,35,250,242,1 410,125,504,239,1 4,245,88,431,1 
+./OpenAI/DATASET/data/agri_0_8595.jpeg 100,157,445,439,1 
+./OpenAI/DATASET/data/agri_0_8599.jpeg 5,19,492,507,0 
+./OpenAI/DATASET/data/agri_0_8609.jpeg 15,21,501,484,0 
+./OpenAI/DATASET/data/agri_0_8618.jpeg 183,218,391,426,1 
+./OpenAI/DATASET/data/agri_0_8620.jpeg 147,173,361,388,1 
+./OpenAI/DATASET/data/agri_0_8623.jpeg 122,168,352,398,1 
+./OpenAI/DATASET/data/agri_0_8634.jpeg 58,12,497,492,0 
+./OpenAI/DATASET/data/agri_0_8636.jpeg 44,112,418,367,1 
+./OpenAI/DATASET/data/agri_0_864.jpeg 40,3,489,407,0 
+./OpenAI/DATASET/data/agri_0_8642.jpeg 16,113,442,416,1 
+./OpenAI/DATASET/data/agri_0_8654.jpeg 85,169,422,395,1 
+./OpenAI/DATASET/data/agri_0_8655.jpeg 108,121,474,408,1 
+./OpenAI/DATASET/data/agri_0_866.jpeg 61,9,475,481,0 
+./OpenAI/DATASET/data/agri_0_8663.jpeg 71,70,483,478,1 
+./OpenAI/DATASET/data/agri_0_8671.jpeg 59,75,463,417,1 
+./OpenAI/DATASET/data/agri_0_8675.jpeg 100,18,422,396,1 
+./OpenAI/DATASET/data/agri_0_8682.jpeg 70,36,470,454,0 
+./OpenAI/DATASET/data/agri_0_8689.jpeg 49,50,473,456,0 
+./OpenAI/DATASET/data/agri_0_8698.jpeg 179,179,320,295,1 22,296,203,478,1 
+./OpenAI/DATASET/data/agri_0_8700.jpeg 95,100,445,402,0 
+./OpenAI/DATASET/data/agri_0_8702.jpeg 63,49,427,336,1 
+./OpenAI/DATASET/data/agri_0_8704.jpeg 36,88,422,511,0 239,3,448,200,0 
+./OpenAI/DATASET/data/agri_0_8708.jpeg 135,67,376,393,1 
+./OpenAI/DATASET/data/agri_0_871.jpeg 125,180,381,422,1 58,129,188,224,1 
+./OpenAI/DATASET/data/agri_0_8733.jpeg 157,148,464,437,1 
+./OpenAI/DATASET/data/agri_0_8741.jpeg 32,112,445,430,0 
+./OpenAI/DATASET/data/agri_0_8746.jpeg 106,149,316,455,1 359,39,493,480,1 
+./OpenAI/DATASET/data/agri_0_8747.jpeg 67,80,469,432,1 
+./OpenAI/DATASET/data/agri_0_8752.jpeg 61,67,503,301,0 
+./OpenAI/DATASET/data/agri_0_8780.jpeg 27,58,457,400,0 
+./OpenAI/DATASET/data/agri_0_8783.jpeg 16,95,504,483,0 
+./OpenAI/DATASET/data/agri_0_8788.jpeg 188,180,366,350,0 
+./OpenAI/DATASET/data/agri_0_879.jpeg 1,4,511,486,0 
+./OpenAI/DATASET/data/agri_0_8794.jpeg 20,201,498,442,0 
+./OpenAI/DATASET/data/agri_0_8797.jpeg 55,102,422,365,1 
+./OpenAI/DATASET/data/agri_0_8800.jpeg 79,155,418,351,1 
+./OpenAI/DATASET/data/agri_0_8803.jpeg 49,27,392,313,0 72,210,511,511,0 
+./OpenAI/DATASET/data/agri_0_8811.jpeg 39,40,442,415,0 
+./OpenAI/DATASET/data/agri_0_8815.jpeg 6,4,495,473,0 
+./OpenAI/DATASET/data/agri_0_882.jpeg 48,32,416,381,1 
+./OpenAI/DATASET/data/agri_0_8821.jpeg 99,164,449,482,1 62,11,511,124,1 
+./OpenAI/DATASET/data/agri_0_8830.jpeg 20,226,377,482,1 78,36,420,200,1 
+./OpenAI/DATASET/data/agri_0_8834.jpeg 181,108,376,283,1 
+./OpenAI/DATASET/data/agri_0_8838.jpeg 192,186,336,323,1 
+./OpenAI/DATASET/data/agri_0_8842.jpeg 4,106,341,416,1 366,355,508,511,1 356,44,509,239,1 
+./OpenAI/DATASET/data/agri_0_8848.jpeg 72,118,505,428,1 
+./OpenAI/DATASET/data/agri_0_8857.jpeg 176,156,392,324,1 
+./OpenAI/DATASET/data/agri_0_8863.jpeg 44,37,436,499,0 
+./OpenAI/DATASET/data/agri_0_8866.jpeg 8,58,450,464,1 
+./OpenAI/DATASET/data/agri_0_8872.jpeg 27,22,499,494,0 
+./OpenAI/DATASET/data/agri_0_8881.jpeg 63,132,469,365,0 
+./OpenAI/DATASET/data/agri_0_8886.jpeg 100,103,452,356,1 
+./OpenAI/DATASET/data/agri_0_8893.jpeg 93,71,368,336,0 
+./OpenAI/DATASET/data/agri_0_8899.jpeg 253,104,411,421,1 
+./OpenAI/DATASET/data/agri_0_8904.jpeg 18,8,497,505,1 
+./OpenAI/DATASET/data/agri_0_8905.jpeg 56,107,161,250,1 267,187,356,330,1 
+./OpenAI/DATASET/data/agri_0_8913.jpeg 22,31,399,366,1 
+./OpenAI/DATASET/data/agri_0_8914.jpeg 40,0,457,500,0 
+./OpenAI/DATASET/data/agri_0_8926.jpeg 127,128,409,276,1 
+./OpenAI/DATASET/data/agri_0_8935.jpeg 104,154,149,202,0 88,219,133,252,0 199,261,252,312,0 248,148,290,204,0 288,223,338,290,0 258,310,332,404,0 355,161,441,263,0 292,24,359,114,0 391,24,454,72,0 386,90,438,119,0 144,346,193,402,0 
+./OpenAI/DATASET/data/agri_0_8956.jpeg 137,83,387,363,0 
+./OpenAI/DATASET/data/agri_0_8959.jpeg 50,28,440,511,0 
+./OpenAI/DATASET/data/agri_0_8960.jpeg 52,76,422,353,1 
+./OpenAI/DATASET/data/agri_0_8980.jpeg 65,103,112,138,0 263,33,314,119,0 101,404,144,456,0 242,351,312,414,0 345,461,415,500,0 343,182,423,236,0 350,5,432,96,0 123,12,178,36,0 233,429,298,494,0 149,394,195,444,0 136,443,172,483,0 1,442,34,503,0 5,364,40,399,0 102,75,144,99,0 144,61,182,112,0 
+./OpenAI/DATASET/data/agri_0_8982.jpeg 126,163,327,417,1 
